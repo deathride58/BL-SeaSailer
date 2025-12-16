@@ -1,0 +1,10 @@
+{
+    "name": "Sea_Sailer",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/deathride58/BL-SeaSailer",
+    "description": "Allows toggling the game's anti-piracy measures at runtime",
+    "dependencies": [
+        "LavaGang-MelonLoader-0.7.1",
+        "bonelib-BoneLib-3.1.3"
+    ]
+}
